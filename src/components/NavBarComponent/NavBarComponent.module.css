@@ -1,0 +1,18 @@
+.mainContainer {
+    display: inline-block;
+    line-height: inherit;
+    letter-spacing: 0;
+    cursor: pointer;
+}
+
+.a:hover {
+    color: #1ed760;
+}
+
+.a, .span {
+    color: white;
+    vertical-align: middle;
+    text-decoration: inherit;
+    padding: 28px 17px;
+}
+

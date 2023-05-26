@@ -1,0 +1,38 @@
+.mainContainer {
+    flex: 1 0;
+    padding: 0 15px;
+    margin: 0;
+}
+
+.title {
+    margin: 20px 0;
+    color: #919496;
+    font-size: 12px;
+    font-weight: 900;
+    line-height: 1.4;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+}
+
+.aRedireccionador, .redireccionador {
+    margin: 0;
+    color: white;
+    margin-inline-start: 0;
+}
+
+.aRedireccionador:hover, .redireccionador:hover {
+    color: #1ed760;
+}
+
+.aRedireccionador {
+    padding: 3px 0 15px;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    text-decoration: none;
+}
+
+.mainContainer > .redireccionador {
+    text-align: start;
+}

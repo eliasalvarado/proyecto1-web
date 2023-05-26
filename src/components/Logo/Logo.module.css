@@ -1,0 +1,18 @@
+.divLogoContainer {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.aContainer {
+    display: flex;
+    align-items: center;
+}
+
+.logoSpan {
+    margin: 5px;
+    font-size: 20px;
+    color: white;
+    vertical-align: middle;
+}
