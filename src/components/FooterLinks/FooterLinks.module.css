@@ -1,0 +1,23 @@
+.mainContainer {
+    margin: 0 45px 0 0;
+    padding: 0 0 0 15px;
+    color: gray;
+}
+
+.liContainer {
+    display: inline-block;
+    margin-right: 24px;
+    cursor: pointer;
+    list-style: none;
+    line-height: normal;
+}
+
+.a {
+    text-decoration: none;
+    padding: 1em 0;
+    color: gray;
+}
+
+.a:hover {
+    color: #1ed760;
+}

@@ -1,0 +1,92 @@
+.mainContainer {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    text-align: start;
+    background-color: white;
+    box-shadow: #ffffff 0 0 8px, #000000bb 0px 0px 8px;
+    border-radius: 10px;
+    margin: 0px 16px 0px 0px;
+    padding: 16px 16px 0 16px;
+}
+
+.tagContainer {
+    background-color: #0d72ea;
+    border-radius: 4px;
+    font-size: 14px;
+    padding: 4px 8px;
+    margin: 0 4px 10px 0;
+    color: white;
+    font-weight: bold;
+    width: fit-content;
+}
+
+.titleContainer {
+    margin: 0 0 5px;
+    padding: 0;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 24px;
+}
+
+.textContainer, .accountContainer {
+    display: block;
+    margin: 0 0 2px;
+    font-size: 16px;
+    line-height: 22px;
+    color: black;
+}
+
+.accountContainer {
+    margin-bottom: 20px;
+}
+
+.separator {
+    margin: 0;
+    border-color: #cccccc;
+    align-self: stretch;
+}
+
+.ulContainer {
+    margin: 0 16px 0 0;
+    padding-top: 20px;
+    padding-left: 0;
+    padding-right: 16px;
+    padding-bottom: 16px;
+    height: 35%;
+}
+
+.liContainer {
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.ulContainer li p {
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.pLi {
+    line-height: 22px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.checkLi {
+    padding: 0 10px 0 0;
+    height: 28px;
+    width: 24px;
+}
+
+.pContainer {
+    margin-top: 12px;
+    color: #535353;
+    font-size: 12px;
+}
+
+.aContainer {
+    color: #535353;
+    text-decoration: underline;
+}

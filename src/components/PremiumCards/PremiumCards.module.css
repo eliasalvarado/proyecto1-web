@@ -1,0 +1,48 @@
+.mainContainer {
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 0;
+    margin: 55px 0;
+    list-style: none;
+    justify-content: space-between;
+}
+
+.liContainer {
+    display: block;
+    width: 270px;
+    flex-grow: 1;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.divImg {
+    display: block;
+    margin: 0 auto 40px;
+    background-position: center top;
+    width: 142px;
+    height: 142px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('https://i.scdn.co/image/ab671c3d0000f430cd6c528745e510c5be63a012');
+}
+
+.divText {
+    display: block;
+    text-align: center;
+    width: 100%;
+    margin: 16px 0;
+}
+
+.pTitle {
+    font-size: 21px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    line-height: 1.3em;
+}
+
+.pText {
+    font-size: 16px;
+    margin: 0 auto;
+    line-height: 1.5;
+}
+

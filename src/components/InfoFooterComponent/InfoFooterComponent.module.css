@@ -27,10 +27,9 @@
 .aRedireccionador {
     padding: 3px 0 15px;
     display: inline-block;
-    font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     text-decoration: none;
+    font-weight: normal;
 }
 
 .mainContainer > .redireccionador {

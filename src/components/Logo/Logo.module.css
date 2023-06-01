@@ -8,11 +8,17 @@
 .aContainer {
     display: flex;
     align-items: center;
+    
+}
+
+img {
+    height: 40px;
 }
 
 .logoSpan {
     margin: 5px;
-    font-size: 20px;
+    font-size: 25px;
     color: white;
     vertical-align: middle;
+    width: 100%;
 }
