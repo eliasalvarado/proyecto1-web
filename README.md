@@ -14,12 +14,12 @@
 Además, se implementó la técnica CSS Modules.
 
 ## Manejador de paquetes utilizado: Yarn
-| Paquete | Versión | Comando |
+| Paquete | Versión (mínima) | Comando |
 | ------------  | -------------  |  -------------                                        |
 | Vite | 4.3.2 | ` yarn create vite ` |
-| Eslint | 8.38.0 | ` yarn add eslint ` seguido de ` yarn eslint --init ` |
+| Eslint | 8.2.0 | ` yarn add eslint ` seguido de ` yarn eslint --init ` |
 | Prop-Types | 15.8.1 | ` yarn add prop-types ` |
-| Storybook | 2.4.0 | ` yarn add --dev @storybook/builder-vite ` seguido de ` yarn add storybook ` finalmente ` yarn storybook init ` |
+| Storybook | 7.0.17 | ` yarn add --dev @storybook/builder-vite ` seguido de ` yarn add storybook ` finalmente ` yarn storybook init ` |
 
 ## Útil
 #### Si desea clonar este proyecto localmente siga estos pasos:
