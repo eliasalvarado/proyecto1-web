@@ -8,7 +8,9 @@
 }
 
 .liContainer {
-    display: block;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     width: 270px;
     flex-grow: 1;
     margin-bottom: 20px;
